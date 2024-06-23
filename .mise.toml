@@ -1,0 +1,9 @@
+[tools]
+swiftformat = "0.53.3"
+
+[plugins]
+python = 'https://github.com/asdf-community/asdf-swiftFormat'
+
+[settings]
+jobs = 1
+experimental = true
